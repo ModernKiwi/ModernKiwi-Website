@@ -1,0 +1,17 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+
+# .eslintrc.js
+# .eslintrc.json
+# .eslintrc.cjs
+
+.gitattributes
+.gitignore
+
+# .prettierignore
+# .prettierrc
+# .prettierrc.json
+
+.env
