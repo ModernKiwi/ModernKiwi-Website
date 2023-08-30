@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+	body {
+		@apply tw-h-full tw-w-full tw-bg-grey-500;
+	}
+}

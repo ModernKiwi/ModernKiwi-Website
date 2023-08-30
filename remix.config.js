@@ -6,6 +6,7 @@ export default {
 	// serverBuildPath: "build/index.js",
 	// publicPath: "/build/",
 	serverModuleFormat: 'esm',
+	postcss: true,
 	future: {
 		v2_dev: true,
 		v2_errorBoundary: true,
